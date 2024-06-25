@@ -90,6 +90,7 @@ const App = () => {
   };
 
   const handleSubmit = () => {
+    alert('Data Submitted succesfully')
     console.log('Form submitted:', formData);
   };
 
